@@ -1,0 +1,7 @@
+Java 17.0.21 | command: java -cp Task03/out ParkingFacility
+[0, 0]
+[0, 1]
+[1, 0]
+null
+true false false
+[0, 1]
