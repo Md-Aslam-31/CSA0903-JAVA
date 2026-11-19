@@ -1,0 +1,1 @@
+Two-wheeler TN01AA1111: enter 09:00, exit 10:30; monthly-pass car TN02BB2222: enter 10:00, exit 12:00. Expected fees Rs 20 + Rs 0 = Rs 20.

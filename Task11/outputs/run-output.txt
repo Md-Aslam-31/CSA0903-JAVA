@@ -1,0 +1,13 @@
+Java 17.0.21 | command: java -cp Task11/out parking.app.ParkingDemo
+Campus Smart Parking — baseline
+Bike ticket=1000 slot=(0,0) fee=20.0
+Monthly-pass car ticket=1001 fee=0.0
+Boundary 0 min / 60 min / 61 min (car): 0.0 / 30.0 / 60.0
+Capacity last slot: true
+Full facility rejected: No free slot
+Duplicate active registration rejected: true
+Unknown vehicle type rejected: true
+Invalid slot rejected: true
+Negative duration rejected: true
+Negative capacity rejected: true
+Hand-check collection for bike + monthly car: Rs 20 + Rs 0 = Rs 20
