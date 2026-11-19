@@ -33,4 +33,5 @@ javac -d Assignment1/Task12/out $files
 java -cp Assignment1/Task12/out parking.app.AdaptationDemo
 ```
 
-The PNGs in each runnable task's `outputs/` folder are output transcript renderings created from the corresponding raw stdout text. They are labeled as such. Task 3 was also run in OnlineGDB's Java compiler during this workflow and completed with exit code 0.
+The PNGs in each runnable task's `outputs/` folder are output transcript renderings created from the corresponding raw stdout text. They are labeled as such. Tasks 3 and 8 were also run in OnlineGDB's Java compiler during this workflow and completed with exit code 0.
+

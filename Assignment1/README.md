@@ -6,6 +6,7 @@ This folder contains all material for Assignment 1 (Tasks 1-12), leaving the rep
 - [solution-report.pdf](solution-report.pdf) - printable report with output evidence images.
 - `Task01` through `Task12` - task responses, Java sources, scenarios and output files.
 
-The PNG output images are rendered from the saved stdout logs. Task 3 was also run in OnlineGDB (Java) and returned exit code 0; its live compiler view was captured during the work session, but an image file could not be saved from the browser to the repository. The report states this explicitly.
+The PNG output images are rendered from the saved stdout logs. Tasks 3 and 8 were also run in OnlineGDB (Java) and returned exit code 0; its live compiler view was captured during the work session, but an image file could not be saved from the browser to the repository. The report states this explicitly.
 
 Student register number was not supplied; fill it in the report and repository guide before submission.
+
