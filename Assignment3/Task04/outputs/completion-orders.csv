@@ -1,0 +1,11 @@
+trial,completion_order,alive_after_start,alive_after_join,total_scanned
+1,"S2(25) < S1(25) < S4(25) < S3(25)",true,false,100
+2,"S1(25) < S4(25) < S3(25) < S2(25)",true,false,100
+3,"S1(25) < S2(25) < S4(25) < S3(25)",true,false,100
+4,"S4(25) < S1(25) < S2(25) < S3(25)",true,false,100
+5,"S1(25) < S3(25) < S2(25) < S4(25)",true,false,100
+6,"S4(25) < S3(25) < S2(25) < S1(25)",true,false,100
+7,"S2(25) < S1(25) < S3(25) < S4(25)",true,false,100
+8,"S3(25) < S1(25) < S2(25) < S4(25)",true,false,100
+9,"S3(25) < S4(25) < S1(25) < S2(25)",true,false,100
+10,"S1(25) < S3(25) < S4(25) < S2(25)",true,false,100
