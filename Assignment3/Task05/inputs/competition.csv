@@ -1,0 +1,2 @@
+seat_id,contenders_per_seat,method
+1-10,10,barrier-controlled unsafe / synchronized method / synchronized block
