@@ -1,0 +1,5 @@
+scenario,origin,controller result
+success,storage,submission accepted
+file too large,storage IOException -> SubmissionStorageException,checked exception handled with cause
+not registered,service StudentNotRegisteredException,checked exception handled
+closed window,controller ExamClosedException,unchecked exception handled

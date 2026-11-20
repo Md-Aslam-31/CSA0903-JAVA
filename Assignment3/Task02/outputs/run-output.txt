@@ -1,0 +1,16 @@
+Saved answer01.pdf
+Submission accepted
+Error: Could not store answer02.pdf
+Cause: Disk quota exceeded
+Cause class: IOException
+SubmissionStorageException: Could not store answer02.pdf
+	at Storage.save(StorageDemo.java:9)
+	at SubmissionService.submit(StorageDemo.java:16)
+	at StorageDemo.controller(StorageDemo.java:22)
+	at StorageDemo.main(StorageDemo.java:28)
+Caused by: java.io.IOException: Disk quota exceeded
+	at Storage.save(StorageDemo.java:8)
+	... 3 more
+Error: Student is not registered
+Error: Exam window has closed
+Cause when omitted: null
