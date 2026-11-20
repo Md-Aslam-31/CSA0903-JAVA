@@ -46,7 +46,7 @@ The PNGs in each runnable task's `outputs/` folder are output transcript renderi
 
 See [Assignment3/README.md](Assignment3/README.md) for the Java exception-handling and concurrency assignment.
 
-## Assignment 3
+## Assignment 4
 
-See [Assignment3/README.md](Assignment3/README.md) for the Java exception-handling and concurrency assignment.
+See [Assignment4/README.md](Assignment4/README.md) for the event-driven GUI design assignment and solution report.
 
