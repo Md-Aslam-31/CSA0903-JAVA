@@ -1,0 +1,7 @@
+CREATE TABLE fees (
+    payment_id BIGINT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    reg_no VARCHAR(20) NOT NULL,
+    amount DECIMAL(12,2) NOT NULL,
+    paid_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    CONSTRAINT ck_fee_positive CHECK (amount > 0)
+);

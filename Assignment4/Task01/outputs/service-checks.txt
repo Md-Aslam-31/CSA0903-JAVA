@@ -1,0 +1,3 @@
+Valid: STU100 / INR 250.00 -> accepted
+Invalid ID, zero amount, and >2 decimal places -> rejected by FeeService
+PASS: 4 service checks
