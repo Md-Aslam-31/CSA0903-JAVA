@@ -41,3 +41,12 @@ The PNGs in each runnable task's `outputs/` folder are output transcript renderi
 - [Assignment1/](Assignment1/README.md) - Tasks 1-12 and solution report.
 - [Assignment2/](Assignment2/README.md) - Questions 1-7, measured collection experiments, source and solution report.
 
+
+## Assignment 3
+
+See [Assignment3/README.md](Assignment3/README.md) for the Java exception-handling and concurrency assignment.
+
+## Assignment 3
+
+See [Assignment3/README.md](Assignment3/README.md) for the Java exception-handling and concurrency assignment.
+
