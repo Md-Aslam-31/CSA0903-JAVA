@@ -1,0 +1,5 @@
+Style,Enter_trigger_registration_lines,Shared_dialog_logic_methods_edited,Handler_objects_per_converter,Notes
+Frame implements ActionListener,1,1,1,Register amount field on the frame too
+Named inner class,1,1,1,Reuse NamedHandler object for both sources
+Anonymous inner class,1,1,1,Retain listener variable and register on amount field
+Lambda,1,1,1,Retain lambda variable and register on amount field
