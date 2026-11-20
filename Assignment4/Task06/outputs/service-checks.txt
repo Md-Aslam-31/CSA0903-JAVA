@@ -1,0 +1,5 @@
+NORMAL: STU200 / Mira Shah / Hackathon -> saved
+INVALID: blank student ID -> Student ID must be 3-30 letters, digits or hyphens.
+DUPLICATE: STU100 / Cultural Night -> SQLState 23505
+FILTER: Hackathon returned 1 row
+PASS: normal, invalid, duplicate, filter
