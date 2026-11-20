@@ -1,0 +1,4 @@
+index_rule,file_state,expected_handling
+index % 97 == 0,missing,IOException recorded as failure
+index % 89 == 0 and not missing,CORRUPT,validation failure recorded
+other,valid id and score 0..100,success outcome

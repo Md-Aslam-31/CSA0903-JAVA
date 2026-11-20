@@ -1,0 +1,5 @@
+Hand-checked 5-file set: success=2, failure=3
+pool=1, ms=119845, success=9785, failure=215, sum=10000
+pool=2, ms=291, success=9785, failure=215, sum=10000
+pool=4, ms=159, success=9785, failure=215, sum=10000
+pool=8, ms=106, success=9785, failure=215, sum=10000
