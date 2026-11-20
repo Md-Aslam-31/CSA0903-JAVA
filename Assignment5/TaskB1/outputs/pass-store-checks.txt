@@ -1,0 +1,7 @@
+SKIP line 2: expected 5 fields
+SKIP line 3: invalid numeric field
+SKIP line 4: expected 5 fields
+SKIP line 2: expected 5 fields
+SKIP line 3: invalid numeric field
+SKIP line 4: expected 5 fields
+PASS: add/find, not-found, malformed shape, invalid number, empty line, continue-after-damage

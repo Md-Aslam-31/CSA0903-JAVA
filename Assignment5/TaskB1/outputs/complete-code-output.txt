@@ -1,0 +1,6 @@
+SKIP line 2: expected 5 fields
+[P1003, 192311003, Divya, 7, 3800.0]
+SKIP line 2: expected 5 fields
+null
+SKIP line 2: expected 5 fields
+null
