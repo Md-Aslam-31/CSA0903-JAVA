@@ -1,0 +1,4 @@
+implementation,open readers after injected failure,report matches try-with-resources
+faulty manual close,1,yes (failed store omitted)
+manual close in finally,0,yes
+try-with-resources,0,reference

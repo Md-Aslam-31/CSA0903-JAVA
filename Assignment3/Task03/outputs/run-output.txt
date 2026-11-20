@@ -1,0 +1,11 @@
+manual log: West.txt -> corrupt record
+Manual report: North sales=5|South sales=7|
+Manual open after failure: 1
+twr log: West.txt -> corrupt record
+TWR report: North sales=5|South sales=7|
+TWR open after failure: 0
+finally log: West.txt -> corrupt record
+Manual finally report matches TWR: true
+Manual finally open after failure: 0
+Primary: read failed
+Suppressed: close failed

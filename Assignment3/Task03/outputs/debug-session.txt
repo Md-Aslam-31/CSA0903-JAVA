@@ -1,0 +1,8 @@
+JDK 17.0.21 jdb breakpoint evidence
+Breakpoint: ResourceSafety$StoreReader.readLine()
+The debugger stopped in readLine; step completed at line 10 with s = "CORRUPT".
+Stack at the corrupt line:
+  [1] ResourceSafety$StoreReader.readLine (ResourceSafety.java:11)
+  [2] ResourceSafety.manual (ResourceSafety.java:20)
+  [3] ResourceSafety.main (ResourceSafety.java:47)
+The next step reached the manual catch at ResourceSafety.java:21. Locals showed i = 2 and r = StoreReader; ResourceSafety.open evaluated to 1. The faulty path recorded the reader in leaked and skipped close. The finally and try-with-resources paths later reported 0 open readers.
