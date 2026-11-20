@@ -1,0 +1,2 @@
+Loaded=North Hostel, resident=Asha, phone=9000000000
+Transient credential=null, connection=null
