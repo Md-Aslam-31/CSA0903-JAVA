@@ -1,0 +1,4 @@
+OnlineGDB Java console output transcript (observed run, exit code 0)
+Ranking: [Eagles(9,6), Bisons(9,4), Panthers(9,4), Cobras(6,1)]
+Generic bounded-independent list size: 4
+Bad subtraction comparator sign(hi,lo): 1 (wrong; should be negative)

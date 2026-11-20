@@ -1,0 +1,6 @@
+OnlineGDB Java console output transcript (observed run, exit code 0)
+condition=tickets:10000 fields:50 rounds:7
+string_plus_avg_ms=21.578
+builder_avg_ms=3.262
+speedup=6.61x
+checksum=6400000

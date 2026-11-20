@@ -1,0 +1,6 @@
+OnlineGDB Java console output transcript (observed run, exit code 0)
+Sorted waiting list: [Meena(S1), Kumar(S1), Lata(S2), Zoya(S2), Ravi(S3), John(S3), Dev(S3), Asha(S5)]
+Treatment: Meena(S1) Kumar(S1) Lata(S2) Zoya(S2) Ravi(S3) John(S3) Dev(S3) Asha(S5)
+n=1000,add_and_poll_avg_ms=3.568,rounds=5
+n=10000,add_and_poll_avg_ms=5.347,rounds=5
+n=50000,add_and_poll_avg_ms=25.178,rounds=5

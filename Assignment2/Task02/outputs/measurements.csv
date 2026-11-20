@@ -1,0 +1,4 @@
+N,rounds,scaled_ops,end_10000_ms_ArrayList,LinkedList,ArrayDeque,front_pairs_ms_ArrayList,LinkedList,ArrayDeque,middle_pairs_ms_ArrayList,LinkedList,get_k_ms_ArrayList,LinkedList,ArrayDeque_iterator,iterate_ms_ArrayList,LinkedList,ArrayDeque
+1000,5,1000,0.682,0.938,0.788,0.265,0.170,0.123,0.202,1.779,0.069,0.778,12.999,0.101,0.126,0.078
+5000,5,200,0.662,0.347,0.327,0.143,0.019,0.024,0.078,1.609,0.015,0.791,0.544,0.379,0.380,0.359
+20000,5,50,0.154,0.310,0.310,0.152,0.007,0.006,0.074,1.644,0.005,0.832,0.555,0.683,0.763,0.635

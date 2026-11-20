@@ -1,0 +1,6 @@
+OnlineGDB Java console output transcript (observed run, exit code 0)
+same object repeated, size=1 expected=1
+distinct equal scans without hashCode, observed size=3 expected output commonly 3; identity hashes differ
+fixed hashCode, size=2 expected=2
+mutated hash-key contains=false, size=1
+TreeSet duplicate regNo size=1

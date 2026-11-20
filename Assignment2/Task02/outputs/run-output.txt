@@ -1,0 +1,5 @@
+OnlineGDB Java console output transcript (observed run, exit code 0)
+5-run averages; setup excluded; end=10k; other operation count scaled by n
+N=1000 rounds=5 ops=1000 end10k_A/L/D=0.682/0.938/0.788 front_A/L/D=0.265/0.170/0.123 middle_A/L=0.202/1.779 getK_A/L/Diter=0.069/0.778/12.999 iterate_A/L/D=0.101/0.126/0.078
+N=5000 rounds=5 ops=200 end10k_A/L/D=0.662/0.347/0.327 front_A/L/D=0.143/0.019/0.024 middle_A/L=0.078/1.609 getK_A/L/Diter=0.015/0.791/0.544 iterate_A/L/D=0.379/0.380/0.359
+N=20000 rounds=5 ops=50 end10k_A/L/D=0.154/0.310/0.310 front_A/L/D=0.152/0.007/0.006 middle_A/L=0.074/1.644 getK_A/L/Diter=0.005/0.832/0.555 iterate_A/L/D=0.683/0.763/0.635

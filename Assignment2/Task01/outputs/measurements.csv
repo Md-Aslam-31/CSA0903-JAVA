@@ -1,0 +1,10 @@
+workload,tickets,fields,method,avg_ms,rounds,estimated_intermediate_result_strings,checksum
+W1-short,1,10,StringPlus,0.031,5,9,120
+W1-short,1,10,StringBuilder,0.029,5,1,120
+W1-short,1,10,StringBuffer,0.024,5,1,120
+W2-many-medium,10000,50,StringPlus,28.953,5,490000,6400000
+W2-many-medium,10000,50,StringBuilder,14.727,5,10000,6400000
+W2-many-medium,10000,50,StringBuffer,25.371,5,10000,6400000
+W3-fewer-wide,2000,100,StringPlus,9.008,5,198000,2580000
+W3-fewer-wide,2000,100,StringBuilder,6.335,5,2000,2580000
+W3-fewer-wide,2000,100,StringBuffer,3.065,5,2000,2580000

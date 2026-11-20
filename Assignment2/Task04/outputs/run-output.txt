@@ -1,0 +1,7 @@
+OnlineGDB Java console output transcript (observed run, exit code 0)
+N=1000 put5avg_ms_H/T/L=0.188/0.490/0.393 get100k5avg_ms_H/T/L=3.711/29.561/2.643 iterate5avg_ms_H/T/L=0.195/0.195/0.166
+first_key_H/T/L=M522654/M000000/M000000
+N=10000 put5avg_ms_H/T/L=0.626/12.227/1.559 get100k5avg_ms_H/T/L=1.226/18.827/1.400 iterate5avg_ms_H/T/L=0.527/0.351/0.360
+first_key_H/T/L=M995484/M000000/M000000
+N=50000 put5avg_ms_H/T/L=3.920/34.692/21.756 get100k5avg_ms_H/T/L=13.531/41.181/3.304 iterate5avg_ms_H/T/L=0.922/0.455/0.881
+first_key_H/T/L=M246564/M000000/M000000

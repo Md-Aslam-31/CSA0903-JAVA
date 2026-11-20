@@ -1,0 +1,4 @@
+N,rounds,put_avg_ms_HashMap,TreeMap,LinkedHashMap,get_100000_avg_ms_HashMap,TreeMap,LinkedHashMap,iteration_avg_ms_HashMap,TreeMap,LinkedHashMap,first_key_HashMap,TreeMap,LinkedHashMap
+1000,5,0.188,0.490,0.393,3.711,29.561,2.643,0.195,0.195,0.166,M522654,M000000,M000000
+10000,5,0.626,12.227,1.559,1.226,18.827,1.400,0.527,0.351,0.360,M995484,M000000,M000000
+50000,5,3.920,34.692,21.756,13.531,41.181,3.304,0.922,0.455,0.881,M246564,M000000,M000000

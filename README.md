@@ -35,3 +35,9 @@ java -cp Assignment1/Task12/out parking.app.AdaptationDemo
 
 The PNGs in each runnable task's `outputs/` folder are output transcript renderings created from the corresponding raw stdout text. They are labeled as such. Tasks 3 and 8 were also run in OnlineGDB's Java compiler during this workflow and completed with exit code 0.
 
+
+## Assignments
+
+- [Assignment1/](Assignment1/README.md) - Tasks 1-12 and solution report.
+- [Assignment2/](Assignment2/README.md) - Questions 1-7, measured collection experiments, source and solution report.
+
