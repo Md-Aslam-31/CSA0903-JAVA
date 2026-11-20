@@ -1,0 +1,8 @@
+Compiler: Eclipse Temurin JDK 17.0.21
+
+PASS TaskA3 source compile
+PASS TaskA4 source compile
+PASS TaskB1 source compile
+PASS TaskB2 source compile
+PASS TaskB3 source compile
+PASS TaskB4 source compile

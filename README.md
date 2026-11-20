@@ -50,3 +50,7 @@ See [Assignment3/README.md](Assignment3/README.md) for the Java exception-handli
 
 See [Assignment4/README.md](Assignment4/README.md) for the event-driven GUI design assignment and solution report.
 
+## Assignment 5
+
+See [Assignment5/README.md](Assignment5/README.md) for the persistence engineering assignment, task folders, measurements, and solution report.
+
