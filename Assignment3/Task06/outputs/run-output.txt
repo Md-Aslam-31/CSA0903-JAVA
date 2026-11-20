@@ -1,0 +1,14 @@
+Reverse-order transfer deadlocked: true
+Ordered-lock transfers completed: true; total cents=200
+Sum of tokens collected: 210 (expected 210)
+Observed buffer count range: 0..5
+if-take trial 1: two consumers collected 84 from one token
+if-put trial 1: count=2 in capacity 1
+if-take trial 2: two consumers collected 84 from one token
+if-put trial 2: count=2 in capacity 1
+if-take trial 3: two consumers collected 84 from one token
+if-put trial 3: count=2 in capacity 1
+if-take trial 4: two consumers collected 84 from one token
+if-put trial 4: count=2 in capacity 1
+if-take trial 5: two consumers collected 84 from one token
+if-put trial 5: count=2 in capacity 1
