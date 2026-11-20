@@ -1,0 +1,8 @@
+SKIP line 1: expected 5 fields
+SKIP line 2: invalid numeric field
+SKIP line 3: expected 5 fields
+FIND P2004=[P2004, R4, Valid, 12, 4500.0]
+SKIP line 1: expected 5 fields
+SKIP line 2: invalid numeric field
+SKIP line 3: expected 5 fields
+FIND P2002=null
