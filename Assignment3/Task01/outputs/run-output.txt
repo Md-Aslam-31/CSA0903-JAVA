@@ -1,0 +1,19 @@
+-- valid --
+Dispensed 100 for account 1001
+ATM cleanup: transaction closed
+-- non-numeric input --
+ATM cleanup: transaction closed
+Input/access error: InputMismatchException
+-- negative amount --
+ATM cleanup: transaction closed
+Invalid value: Withdrawal cannot be negative
+-- over balance --
+ATM cleanup: transaction closed
+Business rule: Requested amount exceeds balance
+-- missing card-reader file --
+ATM cleanup: transaction closed
+Card reader error: NoSuchFileException
+Uncaught exception trace:
+java.lang.IllegalStateException: unexpected ATM fault
+	at ATMDemo.lambda$main$0(ATMDemo.java:31)
+	at java.base/java.lang.Thread.run(Thread.java:840)

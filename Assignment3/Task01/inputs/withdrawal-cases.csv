@@ -1,0 +1,6 @@
+case,input,observed path,finally executed
+valid,1001 100,dispensed,yes
+non-numeric,1001 abc,InputMismatchException multi-catch,yes
+negative,1001 -20,IllegalArgumentException catch,yes
+over-balance,1001 600,InsufficientFundsException catch,yes
+missing reader,1001 20,IOException catch (NoSuchFileException),yes
